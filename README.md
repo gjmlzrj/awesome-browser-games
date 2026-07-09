@@ -61,6 +61,11 @@ A curated collection of free-to-play browser games — no download required. Pla
 | *Coming soon* | | |
 
 ## ➕ More Categories
+### Companion Sites (Fan-Maintained)
+
+| Resource | Description | Link |
+|---|---|---|
+| [Meccha Chameleon Atlas](https://mecchachameleon.art/) | Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. | [Open](https://mecchachameleon.art/) |
 
 *Have an idea for a new category? Open an [issue](../../issues) and let us know!*
 
