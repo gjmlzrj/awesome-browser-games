@@ -40,6 +40,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 
 | Game | Description | Play |
 |------|-------------|------|
+| **[Arrow Puzzle](https://arrowpuzzle.app/)** | Trace curved arrow paths, resolve blockers, and clear 50 verified levels plus a shared daily challenge. | [▶ Play](https://arrowpuzzle.app/) |
 | **[Wordle](https://www.nytimes.com/games/wordle/)** | Guess the 5-letter word in 6 tries. The puzzle that took the world by storm. | [▶ Play](https://www.nytimes.com/games/wordle/) |
 
 ## 🕹️ Arcade & Classic
