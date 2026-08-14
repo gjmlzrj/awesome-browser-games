@@ -41,6 +41,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 | Game | Description | Play |
 |------|-------------|------|
 | **[Wordle](https://www.nytimes.com/games/wordle/)** | Guess the 5-letter word in 6 tries. The puzzle that took the world by storm. | [▶ Play](https://www.nytimes.com/games/wordle/) |
+| **[WordleLike](https://wordlelike.com/)** | Free hub of 5 daily Wordle-style games — classic Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram, fresh puzzles every 24h. | [▶ Play](https://wordlelike.com/) |
 
 ## 🕹️ Arcade & Classic
 
