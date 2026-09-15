@@ -41,6 +41,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 | Game | Description | Play |
 |------|-------------|------|
 | **[Wordle](https://www.nytimes.com/games/wordle/)** | Guess the 5-letter word in 6 tries. The puzzle that took the world by storm. | [▶ Play](https://www.nytimes.com/games/wordle/) |
+| **[Play Meowdoku](https://playmeowdoku.com)** | Free browser cat logic puzzle — place one cat per region with no shared row/column and no diagonal touch (Sudoku-like). | [▶ Play](https://playmeowdoku.com) |
 
 ## 🕹️ Arcade & Classic
 
