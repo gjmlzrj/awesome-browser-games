@@ -41,6 +41,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 | Game | Description | Play |
 |------|-------------|------|
 | **[Wordle](https://www.nytimes.com/games/wordle/)** | Guess the 5-letter word in 6 tries. The puzzle that took the world by storm. | [▶ Play](https://www.nytimes.com/games/wordle/) |
+| **[Deck Games](https://deckgames.io)** | Free browser card and solitaire games including Klondike, FreeCell, Spider, and TriPeaks. No signup or download required. | [▶ Play](https://deckgames.io) |
 
 ## 🕹️ Arcade & Classic
 
