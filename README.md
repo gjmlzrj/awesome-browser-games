@@ -41,6 +41,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 | Game | Description | Play |
 |------|-------------|------|
 | **[Wordle](https://www.nytimes.com/games/wordle/)** | Guess the 5-letter word in 6 tries. The puzzle that took the world by storm. | [▶ Play](https://www.nytimes.com/games/wordle/) |
+| **[Plain Game](https://plaingame.fun/)** | Daily estimation puzzle: name something close to a target number or estimate a fact in seven rounds. | [▶ Play](https://plaingame.fun/) |
 
 ## 🕹️ Arcade & Classic
 
