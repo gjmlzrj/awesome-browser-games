@@ -47,6 +47,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 | Game | Description | Play |
 |------|-------------|------|
 | **[Elgoog](https://elgoog.im/)** | A collection of Google Easter eggs and classic mini-games ( barrel roll, snake, pacman, and more). 14+ years old, 1.5M+ monthly visits. | [▶ Play](https://elgoog.im/) |
+| **[Web Dashers](https://webdashers.net/)** | Rhythm platform levels with an icon kit and level editor, playable free in the browser. | [▶ Play](https://webdashers.net/) |
 
 ## 🚗 Racing
 
