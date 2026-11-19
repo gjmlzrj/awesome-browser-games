@@ -40,6 +40,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 
 | Game | Description | Play |
 |------|-------------|------|
+| **[Crowd Pick](https://noillirk.best/#practice)** | Guess the most common answer across seven untimed prompts and see its editorial rank. | [▶ Play](https://noillirk.best/#practice) |
 | **[Wordle](https://www.nytimes.com/games/wordle/)** | Guess the 5-letter word in 6 tries. The puzzle that took the world by storm. | [▶ Play](https://www.nytimes.com/games/wordle/) |
 
 ## 🕹️ Arcade & Classic
