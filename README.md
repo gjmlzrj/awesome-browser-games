@@ -41,6 +41,7 @@ A curated collection of free-to-play browser games — no download required. Pla
 | Game | Description | Play |
 |------|-------------|------|
 | **[Wordle](https://www.nytimes.com/games/wordle/)** | Guess the 5-letter word in 6 tries. The puzzle that took the world by storm. | [▶ Play](https://www.nytimes.com/games/wordle/) |
+| **[Noillirk](https://pufferparty.org/noillirk/)** | Guess common answers to seven category prompts in the daily challenge, or play a replayable practice mode. | [▶ Play](https://pufferparty.org/noillirk/) |
 
 ## 🕹️ Arcade & Classic
 
